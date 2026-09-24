@@ -1,0 +1,21 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Environment / secrets
+.env
+*.pfx
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Test / build output
+TestResults/
+artifacts/
+
+## Load test output
+load-tests/results/
